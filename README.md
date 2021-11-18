@@ -1,0 +1,2 @@
+# scss-card-tutorial
+sass
